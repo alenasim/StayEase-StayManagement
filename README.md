@@ -1,0 +1,2 @@
+# StayEase-StayManagement
+StayEase is an online stay rental application developed using React and Spring Boot. This web application offers streamlined stay management, including uploads, deletions, searches, and reservations. It leverages technologies like Hibernate, Google Cloud Storage, and ElasticSearch for efficient data storage and retrieval. StayEase also implements advanced security measures with token-based authentication and role-based access control. Check out the codebase for my solution in stay booking and management.
